@@ -1,4 +1,4 @@
-# TrajectorySystem
+# TrajectorySystemPrototype
 Prototype of the trajectory system for UrFU
 
 Прототип системы построения индивидуальной образовательной траектории на PHP (внимание, хардкод!).
